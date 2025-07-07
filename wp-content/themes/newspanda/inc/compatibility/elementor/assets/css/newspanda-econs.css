@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'newspanda-econs';
+  src:  url('../fonts/newspanda-econs.eot?qrxuz2');
+  src:  url('../fonts/newspanda-econs.eot?qrxuz2#iefix') format('embedded-opentype'),
+    url('../fonts/newspanda-econs.ttf?qrxuz2') format('truetype'),
+    url('../fonts/newspanda-econs.woff?qrxuz2') format('woff'),
+    url('../fonts/newspanda-econs.svg?qrxuz2#newspanda-econs') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="newspanda-econs-"], [class*=" newspanda-econs-"] {
+  font-family: 'newspanda-econs' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.newspanda-econs-block-1:before {
+  content: "\e900";
+}
+.newspanda-econs-block-2:before {
+  content: "\e901";
+}
+.newspanda-econs-block-3:before {
+  content: "\e902";
+}
+.newspanda-econs-block-4:before {
+  content: "\e903";
+}
+.newspanda-econs-block-5:before {
+  content: "\e904";
+}
+.newspanda-econs-block-6:before {
+  content: "\e905";
+}
+.newspanda-econs-block-7:before {
+  content: "\e906";
+}
+.newspanda-econs-block-8:before {
+  content: "\e907";
+}
+.newspanda-econs-block-9:before {
+  content: "\e908";
+}
+.newspanda-econs-grid-1:before {
+  content: "\e90a";
+}
+.newspanda-econs-grid-2:before {
+  content: "\e90b";
+}
+.newspanda-econs-grid-3:before {
+  content: "\e90c";
+}
+.newspanda-econs-grid-4:before {
+  content: "\e90d";
+}
+.newspanda-econs-grid-5:before {
+  content: "\e90e";
+}
+.newspanda-econs-grid-6:before {
+  content: "\e90f";
+}
+.newspanda-econs-grid-7:before {
+  content: "\e909";
+}
+.newspanda-econs-grid-8:before {
+  content: "\e910";
+}
+.newspanda-econs-grid-9:before {
+  content: "\e911";
+}
+#elementor-panel-get-pro-elements,
+#elementor-panel-get-pro-elements-sticky{
+  display: none;
+  height: 1px;
+  visibility: hidden;
+  opacity: 0;
+}

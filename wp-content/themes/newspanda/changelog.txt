@@ -1,0 +1,18 @@
+== Changelog ==
+
+= 1.0.4 - 2025-06-30 =
+* Enhancement - Replaced the StumbleUpon icon and added a Telegram icon.
+* Enhancement - Header
+
+= 1.0.3 - 2025-06-20 =
+* Enhancement - Design
+
+= 1.0.2 - 2025-05-29 =
+* Fix    - number_of_category_to_display
+
+= 1.0.1 - 2025-05-02 =
+* Enhancement -  6.8 compatibility
+* Enhancement - Design
+
+= 1.0.0 - 2025-04-17 =
+* Release - Initial Version
